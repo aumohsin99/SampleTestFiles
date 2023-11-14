@@ -1,6 +1,12 @@
 # SampleTestFiles
 
 Images have been downloaded from the site below and the reason for creating this repository is to have all files at one place instead of downloading files one by one from the site mentioned below.
-Credits: https://file-examples.com/
+Credits: 
+https://file-examples.com/
+
+https://freetestdata.com/
+
+https://github.com/jwg4/file_examples.git
+
 
 I'll keep improving this repo from time to time.
